@@ -16,6 +16,10 @@ Resources/Links:
 *  If you're using OS X you can install Xamarin Studio by downloading it on http://monodevelop.com/download .
 
 
+Rules:
+*  The one and only rule. Don't change files in other users directories. It's Git, so any harm can be rolled back.
+
+
 Github:
 
 *  Ask kaneua for repo access, then proceed to create a personal folder to post your own projects in.
