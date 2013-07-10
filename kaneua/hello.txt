@@ -1,0 +1,1 @@
+Hello, I'm kaneua. My learning target is to write simple NES emulator.
