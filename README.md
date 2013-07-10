@@ -12,7 +12,7 @@ Resources/Links:
 
 *  If you're a student, you can get visual studio for free at http://www.dreamspark.com
 *  If not, you can still get Visual Studio Express for free. http://www.microsoft.com/visualstudio/eng/products/visual-studio-express
-*  If you're using Linux you can install Monodevelop IDE by installing 'monodevelop' package with your package manager or download it manually on http://monodevelop.com/download (possibly outdated).
+*  If you're using Linux you can install Monodevelop IDE by installing `monodevelop` package with your package manager or download it manually on http://monodevelop.com/download (possibly outdated).
 *  If you're using OS X you can install Xamarin Studio by downloading it on http://monodevelop.com/download .
 
 
