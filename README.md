@@ -17,3 +17,4 @@ Resources/Links:
 Github:
 
 *  Ask kaneua for repo access, then proceed to create a personal folder to post your own projects in.
+*  You can either use GitHub webinterface/command line or windows client http://windows.github.com/
